@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Gallery</string>
+    <string name="STR_ALL">All</string>
+    <string name="STR_MUSIC">Music</string>
+    <string name="STR_MOVIE">Movie</string>
+    <string name="STR_GAME">Game</string>
+    <string name="STR_PICTURE">Picture</string>
+    <string name="STR_SOFTWARE">Software</string>
+    <string name="STR_OTHER">Other</string>
+</resources>

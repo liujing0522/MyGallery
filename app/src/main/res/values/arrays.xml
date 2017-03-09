@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="iconTitles">
+        <item>@string/STR_MUSIC</item>
+        <item>@string/STR_MOVIE</item>
+        <item>@string/STR_GAME</item>
+        <item>@string/STR_ALL</item>
+        <item>@string/STR_PICTURE</item>
+        <item>@string/STR_SOFTWARE</item>
+        <item>@string/STR_OTHER</item>
+    </array>
+</resources>
